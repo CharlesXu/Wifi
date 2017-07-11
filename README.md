@@ -4,8 +4,8 @@
 3.Airplay		需要移植，未测试   
 4.WifiDirect		未测试
 
-#------20170711 update
-删除原来的DLNA代码
-增加新版DLNA代码，兼容各大Android平台，注：由于Android5.0以上使用ART机制，底层库的反射函数可能需要更改
-
+#------20170711 update     
+删除原来的DLNA代码    
+增加新版DLNA代码，兼容各大Android平台，注：由于Android5.0以上使用ART机制，底层库的反射函数可能需要更改      
+     
 使用PlatinumKit库去发现，连接设备，APP进行播放等操作
